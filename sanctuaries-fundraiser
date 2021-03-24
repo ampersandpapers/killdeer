@@ -1,4 +1,4 @@
-	<lj-raw>CUT TAG LINK HERE
+	<lj-raw><center><font size="7"><a href="_" border="0">🏡</a></font></center>
 
 <span style="display:none;"><lj-cut></span>
 
@@ -8,11 +8,11 @@
 
   <!---AESTHETICS--->
 	<div style="width:600px;height:500px;display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr;grid-template-areas: 'one two four four' 'one three three five';grid-gap:10px;">
-		<div style="background:#ddd url(IMG1)center;background-size:cover;grid-area:one;"></div>
-		<div style="background:#ddd url(IMG2)center;background-size:cover;grid-area:two;"></div>
-		<div style="background:#ddd url(IMG3)center;background-size:cover;grid-area:three;"></div>
-		<div style="background:#ddd url(IMG4)center;background-size:cover;grid-area:four;"></div>
-		<div style="background:#ddd url(IMG5)center;background-size:cover;grid-area:five;"></div>
+		<div style="background:#ddd url(https://i1.wp.com/beachhousehustle.com/wp-content/uploads/2018/03/rustic-kitchen.jpg)center;background-size:cover;grid-area:one;"></div>
+		<div style="background:#ddd url(https://www.ikea.com/images/a-bathroom-with-dark-grey-bathroom-furniture-a-cabinet-with--e7fd1c98484efe4c865bbc7bf77bf8f3.jpg)center;background-size:cover;grid-area:two;"></div>
+		<div style="background:#ddd url(https://www.ikea.com/images/a-small-living-room-with-a-red-persian-patterned-rug-a-red-s-e86fb8b61e4385ba9e4b89df45a22c49.jpg)center;background-size:cover;grid-area:three;"></div>
+		<div style="background:#ddd url(https://www.ikea.com/images/a-kura-reversible-bed-stands-in-a-childrens-room-with-a-moun-e31d083fe85766a04b58ef98d56418af.jpg)center;background-size:cover;grid-area:four;"></div>
+		<div style="background:#ddd url(https://www.ikea.com/images/a-bright-bedroom-with-a-black-brown-malm-bed-colorful-beddin-b0dac77a5618fa1c19c09d77a62a9cf8.jpg)center;background-size:cover;grid-area:five;"></div>
 	</div>
 
 <br><br>
