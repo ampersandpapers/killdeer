@@ -1,0 +1,52 @@
+	<lj-raw>CUT TAG LINK HERE
+
+<span style="display:none;"><lj-cut></span>
+
+<Br>
+
+<center>
+
+  <!---AESTHETICS--->
+	<div style="width:600px;height:500px;display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr;grid-template-areas: 'one two four four' 'one three three five';grid-gap:10px;">
+		<div style="background:#ddd url(IMG1)center;background-size:cover;grid-area:one;"></div>
+		<div style="background:#ddd url(IMG2)center;background-size:cover;grid-area:two;"></div>
+		<div style="background:#ddd url(IMG3)center;background-size:cover;grid-area:three;"></div>
+		<div style="background:#ddd url(IMG4)center;background-size:cover;grid-area:four;"></div>
+		<div style="background:#ddd url(IMG5)center;background-size:cover;grid-area:five;"></div>
+	</div>
+
+<br><br>
+
+<div style="display: flex; width: 600px; font-family: verdana; font-size: 9px; line-height: 16px;  letter-spacing: .5px; color: #363636; text-align: justify;">
+
+<div style="width: 220px;">
+<b style="display: block; border: 1px solid rgba(189,189,189,1); background: rgba(189,189,189,.2); padding: 5px; text-align: center; font-size: 15px; text-transform: uppercase;">Sanctuaries Open House</b>
+
+<br>
+
+<span style="display: block; border: 1px solid rgba(189,189,189,.6); background: rgba(189,189,189,.1); padding: 5px;">
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit. sed consequat volutpat est, nec efficitur nunc porttitor a. mauris at tincidunt purus, nec finibus magna.
+
+</span>
+
+<span style="display: block; padding: 10px;">
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit. sed consequat volutpat est, nec efficitur nunc porttitor a. mauris at tincidunt purus, nec finibus magna.
+
+</span>
+
+</div>
+
+<div style="width: 350px; margin-left: 10px;">
+
+<b style="display: block; border: 1px solid rgba(189,189,189,.6); background: rgba(189,189,189,.1); padding: 5px; text-align: center; font-size: 15px; text-transform: uppercase;">Volunteer Spots</b>
+
+<span style="display: block; padding: 10px;">
+mauris at tincidunt purus, nec finibus magna. orem ipsum dolor sit amet, consectetur adipiscing elit.
+</span>
+
+</div>
+</div>
+</center>
+</lj-raw>
