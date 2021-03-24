@@ -1,0 +1,16 @@
+<center>
+  <h2 style="font-family: didot, georgia, serif;">header title here</h2>
+    <table width="500" style="font-family: helvetica, arial, sans-serif; font-size: 10pt;">
+      <tr>
+        <td style="column-width: 250 px; vertical-align: center;"><b>COLUMN A</b></td><td style="column-width: 250 px; vertical-align: center;"><b>COLUMN B</b></td>
+      </tr>
+      <tr>
+        <td style="column-width: 250 px; vertical-align: top;">Person</td><td style="column-width: 250 px; vertical-align: top;">Egg bullshit</td>
+      </tr>
+      <tr>
+        <td style="column-width: 250 px; vertical-align: top;">Another dude</td><td style="column-width: 250 px; vertical-align: top;">Even more eggy bullshit blah blah coding for hotties 101</td>
+      </tr>
+    </table>
+</center>
+
+NOTE: for every person entry, copy the <tr> rows and you'll be golden!
